@@ -1,1 +1,6 @@
 * The Network
+  [[https://www.zerotier.com/download/][ZeroTier]]
+* The Money
+  Money is a number and a promise. Cawala is a simple layer on top of the
+  ZeroTier network to manage your network connections and let you move and track
+  your money.
